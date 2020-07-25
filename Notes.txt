@@ -2,6 +2,6 @@
 * Inside server
 [x] npm init -y
 [x] npm i express yup monk helmet morgan cors
-[]npm i -D dotenv
-[]
+[x]npm i -D dotenv
+[]npm i -D nodemon
 []
