@@ -1,0 +1,7 @@
+[x] Create server and client folders
+* Inside server
+[x] npm init -y
+[x] npm i express yup monk helmet morgan cors
+[]npm i -D dotenv
+[]
+[]
